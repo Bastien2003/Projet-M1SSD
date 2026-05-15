@@ -34,7 +34,6 @@ Encadrer par :
 Projet-M1_SSD/
 │
 ├── README.md
-|
 ├── rapport/
 |   ├── Projet_M1.tex
 │   └── Projet_M1.pdf
