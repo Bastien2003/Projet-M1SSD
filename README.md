@@ -36,8 +36,8 @@ Projet-M1_SSD/
 ├── README.md
 
 ├── rapport/
-|   ├── Projet_M1.tex
-│   └── Projet_M1.pdf
+    ├── Projet_M1.tex
+    └── Projet_M1.pdf
 
 ├── CodeR/
 │   ├── mfi_fonction.R
