@@ -31,51 +31,26 @@ Encadrer par :
 
 ## Struture du projet 
 
-Projet-GMM/
-│
-├── README.md
-├── rapport/
-│   └── rapport.pdf
-│
-├── data/
-│   └── ebosursy_all_bats_clean_9593.csv
-│
-├── scripts/
-│   ├── 01_preparation_donnees.R
-│   ├── 02_cutoff_outlier.R
-│   ├── 03_gmm.R
-│   ├── 04_graphiques.R
-│   ├── 05_tableaux.R
-│   └── fonctions.R
-│
-├── figures/
-│   ├── figure_distribution.png
-│   ├── figure_outlier.png
-│   └── figure_gmm.png
-│
-└── tables/
-    └── table_cutoffs.tex
-
 Projet-M1_SSD/
-│
+
 ├── README.md
+
 ├── rapport/
 |   ├── Projet_M1.tex
 │   └── Projet_M1.pdf
-|
+
 ├── CodeR/
 │   ├── mfi_fonction.R
 │   ├── mfi_graphe.R
 │   ├── mfi_prevalence.R
 │   ├── mfi_tab.R
 │   └── tableau_desciptif.R
-|
-|
+
 ├── figures/
 │   ├── graphe_gmm_mfi
 │   ├── graphe_mfi
 │   └── graphe_outlier_mfi
-│
+
 └── tables/
 │   ├── table_descriptif.tex
 │   ├── table_parametre.tex
