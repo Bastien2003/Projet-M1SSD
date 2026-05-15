@@ -41,18 +41,21 @@ Projet-M1_SSD/
     └── Projet_M1.pdf
 
 ├── CodeR/
-│   ├── mfi_fonction.R
-│   ├── mfi_graphe.R
-│   ├── mfi_prevalence.R
-│   ├── mfi_tab.R
-│   └── tableau_desciptif.R
+
+    ├── mfi_fonction.R
+    ├── mfi_graphe.R
+    ├── mfi_prevalence.R
+    ├── mfi_tab.R
+    └── tableau_desciptif.R
 
 ├── figures/
-│   ├── graphe_gmm_mfi
-│   ├── graphe_mfi
-│   └── graphe_outlier_mfi
+ 
+    ├── graphe_gmm_mfi
+    ├── graphe_mfi
+    └── graphe_outlier_mfi
 
 └── tables/
-│   ├── table_descriptif.tex
-│   ├── table_parametre.tex
+ 
+    ├── table_descriptif.tex
+    ├── table_parametre.tex
     └── table_prevalence.tex
