@@ -55,7 +55,4 @@ Projet-M1_SSD/
 └── tables/
 │   ├── table_descriptif.tex
 │   ├── table_parametre.tex
-│   └── table_prevalence.tex
-
-
-tables/     -> tableauxrapport/    -> rapport final en PDF
+    └── table_prevalence.tex
