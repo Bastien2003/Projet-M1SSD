@@ -37,7 +37,6 @@ Projet-M1_SSD/
 
 ├── rapport/
 
-    ├── Projet_M1.tex
     └── Projet_M1.pdf
 
 ├── CodeR/
